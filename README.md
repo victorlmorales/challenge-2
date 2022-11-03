@@ -8,7 +8,7 @@ This portfolio has several sections; Home, About Me, My Work, and Contact Me.
 
 ## Screenshots
 Below is a screenshot of the deployed application
-![deployed application picture](./assets/img/professional-portfolio.png "Horiseon Social Solutions Mock-up")
+![deployed application picture](./assets/img/professional-portfolio.png "Professional Portfolio")
 
 ### Links
 
